@@ -49,9 +49,7 @@
 </p>
  </br>
 
-<h3 align="center">Stats</h3>
-<div align="center"> 
+<h3 align="left">Stats</h3>
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlekseiCherenkevich&theme=dark)](https://git.io/streak-stats)
-</div>
  
 
