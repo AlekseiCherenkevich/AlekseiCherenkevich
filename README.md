@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+there!+👋+I+am+Alex.+Frontend+developer+from+Belarus.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi,+I+am+Alex!+👋+Frontend+developer+from+Belarus.)](https://git.io/typing-svg)
 
  </br>
 📫 How to reach me:
