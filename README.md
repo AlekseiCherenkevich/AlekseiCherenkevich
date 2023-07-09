@@ -48,3 +48,8 @@
  </a>
 </p>
  </br>
+ 
+ <a href="https://github.com/alekseicherenkevich/github-readme-stats">
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alekseicherenkevich&show_icons=true&include_all_commits=true&theme=radical"      
+alt="alekseicherenkevich's github stats" />
