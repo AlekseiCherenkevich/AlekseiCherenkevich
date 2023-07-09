@@ -61,6 +61,6 @@
 
 
 
-[![codewars](https://www.codewars.com/users/Pikadorius/badges/large)](https://www.codewars.com/users/Pikadorius)
+[![codewars](https://www.codewars.com/users/AlekseiCherenkevich/badges/large)](https://www.codewars.com/users/AlekseiCherenkevich)
  
 
