@@ -48,8 +48,10 @@
  </a>
 </p>
  </br>
- 
- <a href="https://github.com/alekseicherenkevich/github-readme-stats">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alekseicherenkevich&show_icons=true&include_all_commits=true&theme=radical"      
-alt="alekseicherenkevich's github stats" />
+<h3 align="center">Stats</h3>
+<div align="center"> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlekseiCherenkevich&theme=dark)](https://git.io/streak-stats)
+</div>
+ 
+
