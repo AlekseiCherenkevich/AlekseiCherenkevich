@@ -50,8 +50,11 @@
  </br>
 
 <h3 align="left">Stats</h3>
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlekseiCherenkevich&theme=dark)](https://git.io/streak-stats)
+
+
+<h3 align="left">Codewars</h3>
+
+[![codewars](https://www.codewars.com/users/Pikadorius/badges/large)](https://www.codewars.com/users/Pikadorius)
  
 
