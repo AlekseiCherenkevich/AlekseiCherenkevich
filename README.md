@@ -50,6 +50,6 @@
  </br>
 
 <h3 align="left">Stats</h3>
-![GitHub Streak](https://streak-stats.demolab.com/?user=AlekseiCherenkevich&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AlekseiCherenkevich&theme=github-dark)
  
 
