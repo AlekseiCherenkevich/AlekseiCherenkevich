@@ -13,7 +13,6 @@
 <a href="https://alekseicherenkevich@gmail.com" target="blank">
  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" />
 </a>
- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
