@@ -1,6 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi,+I+am+Alex!+👋+Frontend+developer)](https://git.io/typing-svg)
 
  </br>
+ Front-end developer with 3+ years of commercial experience in agile teams (3-9 members)
+using Scrum methodology, both remotely and on-site. Strong communication and
+collaboration skills gained from working in both large company and startup environments.
+Handle the complete frontend development cycle: from responsive layout and component
+design to application architecture and performance optimization with high test coverage.
+Specialized in accelerating page loading speeds, building scalable component systems,
+enhancing user experience, and application modularization. Have some experience working
+with backend development to support full-stack solutions.
+Passionate about IT, love my work, and have strong ambitions for professional development.
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
